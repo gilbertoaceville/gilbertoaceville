@@ -2,7 +2,7 @@
 
 
 Hi there 👋😁
-I'm Gilbert James, and I am a software engineer, 70% of the time into Front end engineering.
+I'm Gilbert James, and I am a software engineer, 60% of the time into Front end engineering.
 
 I've been in the internet and web services for 4 years and I understand how important it is to reach a target audience with the cutting edge technologies available today 🚀. 
 
