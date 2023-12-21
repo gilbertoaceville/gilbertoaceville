@@ -1,33 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋😁, Call me Gilbert</h1>
+<h3 align="center">Software Developer</h3>
 
+# 💫 About Me:
 
-Hi there 👋😁
-I'm Gilbert James, and I am a software engineer, 60% of the time into Front end engineering.
+🌱 I’m tuned in 60% of the time into Front end engineering and the rest Backend wise<br>I spend most of my time coding 👨🏽‍💻<br>.
+📫 I've got a bad trait... I am persistent and tenacious. If something needs to be done then it must be done
+📖 I enjoy code reviews, I am currently flowing through a roadmap to DevOps
+⚡ Fun fact, I must have be a honey badger in my previous life and may reincarnate as one 😉.
 
-I've been in the internet and web services for 4 years and I understand how important it is to reach a target audience with the cutting edge technologies available today 🚀. 
+## 🌐 Socials:
 
-I spend most of my time coding 👨🏽‍💻 and when I am not, I surfing the internet or learning about a new tech feature most especially front end technologies🚀.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-gilbert-ace/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertoaceville@gmail.com)
 
-Although I've alternated between the front-end and back-end development duties, I've achieved much by applying the latest technology application trends to maintain and manage applications. Let's develop a win-win situation together 😉. 
+# 💻 Tech Stack:
 
-Feel free to reach me on:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=for-the-badge) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-639?logo=gatsby&logoColor=fff&style=for-the-badge) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge) ![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff&style=for-the-badge) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=fff&style=for-the-badge) ![DatoCMS](https://img.shields.io/badge/DatoCMS-FF7751?logo=datocms&logoColor=fff&style=for-the-badge) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=for-the-badge) ![Storyblok](https://img.shields.io/badge/Storyblok-09B3AF?logo=storyblok&logoColor=fff&style=for-the-badge) ![Algolia](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=fff&style=for-the-badge) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=for-the-badge) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-DB7093?logo=styledcomponents&logoColor=fff&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-LinkedIn: [https://www.linkedin.com/in/james-gilbert-b10149264/](https://www.linkedin.com/in/james-gilbert-b10149264/)
-
-Email: gilbertoaceville@gmail.com
-
-Thanks✌
-<!--
-**gilbertoaceville/gilbertoaceville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Developed by gilbertoaceville -->
