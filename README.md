@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🌱 I’m tuned in 60% of the time into Front end engineering and the rest Backend wise<br>I spend most of my time programming or thinking of it. 👨🏽‍💻<br>📫 I've got a bad trait... I am persistent and tenacious. If something needs to be done then it must be done no matter how long or whatever it takes.<br>
+🌱 I’m tuned in 60% of the time into Front end engineering and the rest Backend wise<br>👨🏽‍💻I spend most of my time programming or thinking of it. <br>📫 I've got a bad trait... I am persistent and tenacious. If something needs to be done then it must be done no matter how long or whatever it takes.
 <br>📖 I enjoy code reviews, I am currently flowing through a roadmap to DevOps
 <br>⚡ Fun fact, I must have been a honey badger in my previous life and may reincarnate as one 😉.
 
